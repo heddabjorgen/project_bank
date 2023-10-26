@@ -25,7 +25,10 @@ How to run server:
 
 -->Then python manage.py runserver
 
+
 After entering the server:
+
+
 
 To make a deposit to Ibens account:
 http://127.0.0.1:8000/update/2
@@ -41,6 +44,9 @@ Enter this, and try different deposit amounts:
 }
 
 
+
+
+
 To make a saving goal:
 http://127.0.0.1:8000/my_goals/2
 
@@ -52,8 +58,12 @@ Enter this and choose an amount:
 
 }
 
+
+
 To view all accounts:
 http://127.0.0.1:8000/account
+
+
 
 
 You can also create new accounts with this link(with a new unique id at the end):
