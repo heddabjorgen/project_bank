@@ -15,11 +15,14 @@ However in addition to the mechanism, I tried to make it fun for the user to use
 
 Installitions:
 --> pip3 install djangorestframework
+
 --> pip3 install django
 
 How to run server:
 -->Open the project in Visual Studio Code
+
 -->Open the terminal in Visual Studio Code and type in: source env/bin/activate
+
 -->Then python manage.py runserver
 
 After entering the server:
@@ -32,7 +35,9 @@ Enter this, and try different deposit amounts:
 {
 
  "account_number": "121314151617"
+ 
 , "deposit_amount": 50 
+
 }
 
 
@@ -42,7 +47,9 @@ http://127.0.0.1:8000/my_goals/2
 Enter this and choose an amount:
 
 { 
+
 "get_goal": 60000 
+
 }
 
 To view all accounts:
@@ -55,9 +62,13 @@ http://127.0.0.1:8000/account/id
 In this format:
 
 {
+
 "user": "John Doe",
+
 "account_number": "4567890876",
+
 "balance": 5000 
+
 }
 
 Feel free to try different things! 😇
