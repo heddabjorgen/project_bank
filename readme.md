@@ -30,6 +30,7 @@ http://127.0.0.1:8000/update/2
 Enter this, and try different deposit amounts:
 
 {
+
  "account_number": "121314151617"
 , "deposit_amount": 50 
 }
@@ -53,7 +54,7 @@ http://127.0.0.1:8000/account/id
 
 In this format:
 
-{ 
+{
 "user": "John Doe",
 "account_number": "4567890876",
 "balance": 5000 
