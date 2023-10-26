@@ -1,6 +1,7 @@
 ## Task description
 > Short description of my project.
 👩🏽‍💻🏦
+
 In this Savings Account Challenge, my primary focus was on creating a robust API that facilitates various operations related to managing savings accounts. The core tasks I focused on was designing models to represent user accounts, implementing functionalities for depositing funds into accounts, letting the user set savings goals, and providing feedback messages based on user-defined goals and current savings balances.
 
 Additionally, I made endpoints to support operations such as creating new accounts, and updating information. Throughout the project, my aim was to ensure seamless communication between the frontend and backend by using a REST API principles and integrating appropriate error handling mechanisms with Django framework and relational database.
